@@ -1,0 +1,4 @@
+- **Ventaja de ISO/IEC 27001**: La certificación proporciona un **reconocimiento internacional** y aumenta la confianza de clientes y socios comerciales.
+    - **Desventaja**: Requiere una **implementación costosa y a largo plazo**, lo cual puede ser un reto para algunas organizaciones.
+- **Ventaja de NIST CSF**: Es **flexible y adaptable**, lo que permite a las organizaciones ajustarlo a sus necesidades y recursos.
+    - **Desventaja**: No es certificable (aunque se puede evaluar), lo que puede restar valor en contextos donde se requiere una validación formal externa.

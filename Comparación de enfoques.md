@@ -1,0 +1,3 @@
+- **ISO/IEC 27001**: Se basa en la gestión de riesgos mediante un **Sistema de Gestión de la Seguridad de la Información (SGSI)**. Requiere un enfoque estructurado y continuo, estableciendo políticas, procedimientos y controles.
+- **NIST CSF**: Es más flexible y se centra en la **madurez y adaptabilidad**. No obliga a seguir un enfoque tan formal como el SGSI, permitiendo una implementación más personalizada según el nivel de madurez y las necesidades de la organización.
+Diferencia clave: **ISO/IEC 27001** requiere una estructura formal de gestión (SGSI) y **NIST CSF** permite mayor flexibilidad y ajustabilidad según la madurez organizacional.

@@ -1,0 +1,3 @@
+**ISO/IEC 27001** es una norma internacional que describe los requisitos para establecer, implementar, mantener y mejorar un Sistema de Gestión de la Seguridad de la Información (SGSI). Su objetivo principal es proteger la confidencialidad, integridad y disponibilidad de la información a través de un enfoque sistemático y basado en riesgos.
+
+- **Certificación**: Sí, **ISO/IEC 27001 es una norma certificable**. Las organizaciones pueden obtener la certificación mediante auditorías externas realizadas por organismos acreditados, lo que demuestra que cumplen con los requisitos establecidos por la norma.

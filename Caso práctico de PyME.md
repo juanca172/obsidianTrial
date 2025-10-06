@@ -1,0 +1,1 @@
+Para una PyME con presupuesto limitado, recomendaría implementar **NIST CSF** primero. Este marco es más flexible y puede ajustarse a los recursos de la empresa. No requiere una certificación formal, lo que reduce los costos, y puede ayudar a establecer una base sólida para la ciberseguridad sin la necesidad de una estructura tan formal como la de ISO/IEC 27001.

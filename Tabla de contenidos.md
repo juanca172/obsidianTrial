@@ -1,0 +1,15 @@
+[[Definición y propósito]]
+[[Funciones del NIST CSF]]
+[[Comparación de enfoques]]
+[[Similitudes clave]]
+[[Ventajas y desventajas]]
+[[Complementariedad práctica]]
+[[Aplicación en Colombia]]
+[[Normativa sectorial]]
+[[Caso práctico de PyME]]
+[[Reflexión crítica]]
+[[Referencias]]
+[[Glosario de Términos de Seguridad]]
+[[Comparación en Tabla (Markdown)]]
+
+

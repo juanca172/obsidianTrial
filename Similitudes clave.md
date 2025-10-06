@@ -1,0 +1,3 @@
+1. **Gestión de riesgos**: Ambos marcos se enfocan en la **gestión de riesgos** como un principio central. Ambos buscan identificar, evaluar y mitigar riesgos asociados con la seguridad de la información.
+2. **Mejora continua**: Tanto ISO/IEC 27001 como NIST CSF promueven la **mejora continua**. Esto implica que las organizaciones deben revisar y mejorar sus procesos de seguridad de manera constante.
+**Relevancia**: Estas similitudes permiten que las organizaciones utilicen ambos marcos de manera complementaria, asegurando una postura de seguridad más sólida y resiliente.

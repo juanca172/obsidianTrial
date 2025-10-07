@@ -4,7 +4,7 @@
 [[Similitudes clave]]
 [[Ventajas y desventajas]]
 [[Complementariedad práctica]]
-[[Aplicación en Colombia]]
+[[Aplicación en Colombia jasdhjadawd]]
 [[Normativa sectorial]]
 [[Caso práctico de PyME]]
 [[Reflexión crítica]]

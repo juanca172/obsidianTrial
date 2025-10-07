@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aplicación en Colombia.md",
+                "file": "Nota de prueba.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aplicación en Colombia"
+              "title": "Nota de prueba"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PRUEBA.md",
+                "file": "Nota de prueba.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de PRUEBA"
+              "title": "Esquema de Nota de prueba"
             }
           },
           {
@@ -178,9 +178,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bbe393a460eeb43a",
+  "active": "3f82017d9d90ecdc",
   "lastOpenFiles": [
-    "Aplicación en Colombia.md",
-    "PRUEBA.md"
+    "PRUEBA.md",
+    "Nota de prueba.md",
+    "Aplicación en Colombia.md"
   ]
 }

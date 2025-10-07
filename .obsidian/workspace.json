@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Aplicación en Colombia"
             }
+          },
+          {
+            "id": "36a4e2da580ed61a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PRUEBA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PRUEBA"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aplicación en Colombia.md",
+                "file": "PRUEBA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Aplicación en Colombia"
+              "title": "Esquema de PRUEBA"
             }
           },
           {
@@ -178,6 +193,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f82017d9d90ecdc",
-  "lastOpenFiles": []
+  "active": "36a4e2da580ed61a",
+  "lastOpenFiles": [
+    "Aplicación en Colombia.md",
+    "PRUEBA.md"
+  ]
 }
